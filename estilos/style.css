@@ -5,7 +5,12 @@
 }
 
 body{
-    background-color: white;
+    background-color: rgba(34, 175, 145, 0.5);
+   
+}
+
+main{
+     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
